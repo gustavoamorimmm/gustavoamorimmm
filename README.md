@@ -60,13 +60,13 @@
 
 <p align="center">
 <a href="https://github.com/gustavoamorimmm/github-readme-stats">
-  <img height=170 align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=gustavoamorimm&show_icons=true&theme=graywhite&card_width=130" />
+  <img height="170" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gustavoamorimmm&show_icons=true&theme=graywhite&card_width=130" />
 </a>
 <a href="https://github.com/gustavoamorimmm/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoamorimm&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=graywhite" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoamorimmm&layout=compact&langs_count=8&card_width=150&show_icons=true&theme=graywhite" />
 </a>
-  
-  
+</p>
+    
 ###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=130&section=footer&theme=tokyonight"/>
