@@ -61,14 +61,6 @@
 <a href = "https://www.instagram.com/guh_amorimm/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoamorimmm/gustavoamorimmm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoamorimmm/gustavoamorimmm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavoamorimmm/gustavoamorimmm/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=130&section=footer&theme=tokyonight"/>
