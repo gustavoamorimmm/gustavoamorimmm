@@ -13,13 +13,11 @@
 
 - 🌱 I’m currently learning **.Net and AWS**
 
-- 🔭 I’m currently working on **[Stefanini](https://github.com/stefanini)**
-
 - 💬 Ask me about ****Java,Python,C#****
 
 - 📫 How to reach me **gustavoamorim.2807@gmail.com**
 
-- ⚡ Fun fact **Calisthenic 😜**
+- ⚡ Fun fact **I enjoy training and traveling✈️.**
 
 ##
 
